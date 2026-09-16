@@ -2,3 +2,5 @@
 2.Commit do polonczenia dwa
 3.Commit do zmiany nazwy
 4.Commit do usuniencia
+5.Commit do zostawienia
+6.Commit do zostawienia
